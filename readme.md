@@ -44,7 +44,4 @@ Acesso restrito para administradores através de login protegido (`protect.php`)
 - **Design:** moderno, minimalista e responsivo.
 - **Tema visual unificado** em todas as páginas, incluindo checkout, login, e painel admin.
 
----
-
-## ⚙️ Estrutura de Pastas
 
